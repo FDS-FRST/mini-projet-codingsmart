@@ -1,8 +1,7 @@
-public class main {
+public class Main {
 
-    public static void Main (String[] args) {
-
+    public static void main(String[] args) {
         System.out.println("==== Mini-projet Java : Jeu de personnages (Console) ===");
-
     }
+
 }

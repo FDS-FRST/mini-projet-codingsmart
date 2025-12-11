@@ -1,6 +1,7 @@
 public class Joueur {
     private String nom;
     private Personnage[] equipe; // tableau pour 3 personnages
+
 public String getNom() {
     return this.nom;
 }
